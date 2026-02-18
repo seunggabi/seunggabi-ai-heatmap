@@ -18,7 +18,7 @@ npx --yes ai-heatmap@latest update
 
 ## Dynamic SVG (by Vercel)
 
-![AI Heatmap](https://seunggabi-ai-heatmap.vercel.app/api/heatmap?theme=blue)
+![AI Heatmap](https://seunggabi-ai-heatmap.vercel.app/api/heatmap?theme=blue&colorScheme=dark)
 
 ```bash
 npx --yes ai-heatmap@latest deploy
