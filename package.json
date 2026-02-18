@@ -1,0 +1,27 @@
+{
+  "name": "seunggabi-ai-heatmap",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "generate": "npx ai-heatmap generate",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "update": "npx ai-heatmap update --repo OWNER/seunggabi-ai-heatmap"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-activity-calendar": "^3.1.1",
+    "react-dom": "^19.2.4",
+    "react-tooltip": "^5.30.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@vercel/node": "^5.6.4",
+    "@vitejs/plugin-react": "^5.1.4",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.1"
+  }
+}

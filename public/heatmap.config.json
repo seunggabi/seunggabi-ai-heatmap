@@ -1,0 +1,13 @@
+{
+  "colorScheme": "dark",
+  "theme": "",
+  "blockSize": 16,
+  "blockMargin": 4,
+  "blockRadius": 3,
+  "bg": "",
+  "textColor": "",
+  "start": "",
+  "end": "",
+  "stats": true,
+  "weekday": true
+}
