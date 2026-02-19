@@ -13,6 +13,9 @@ npx --yes ai-heatmap@latest update
 ### Cron (daily update)
 
 ```bash
+CLAUDE_CODE_OAUTH_TOKEN=sk-ant-xxx
+GH_TOKEN=ghp_xxx
+
 0 0 * * * npx --yes ai-heatmap@latest update
 ```
 
