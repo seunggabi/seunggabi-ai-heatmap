@@ -1,10 +1,5 @@
 [
   {
-    "date": "2025-02-20",
-    "count": 0,
-    "level": 0
-  },
-  {
     "date": "2025-02-21",
     "count": 0,
     "level": 0
@@ -2253,6 +2248,29 @@
       {
         "model": "claude-haiku-4-5-20251001",
         "cost": 0.17
+      }
+    ]
+  },
+  {
+    "date": "2026-02-20",
+    "count": 28.38,
+    "level": 1,
+    "inputTokens": 14414,
+    "outputTokens": 2053,
+    "totalTokens": 44669620,
+    "cacheHitRate": 93,
+    "modelsUsed": [
+      "claude-opus-4-6",
+      "claude-sonnet-4-5-20250929"
+    ],
+    "modelBreakdowns": [
+      {
+        "model": "claude-sonnet-4-5-20250929",
+        "cost": 18.27
+      },
+      {
+        "model": "claude-opus-4-6",
+        "cost": 10.1
       }
     ]
   }
