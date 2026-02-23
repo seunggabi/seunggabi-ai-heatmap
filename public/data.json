@@ -2322,12 +2322,12 @@
   },
   {
     "date": "2026-02-23",
-    "count": 12.48,
+    "count": 14.62,
     "level": 1,
-    "inputTokens": 1690,
-    "outputTokens": 2578,
-    "totalTokens": 17482887,
-    "cacheHitRate": 88,
+    "inputTokens": 2005,
+    "outputTokens": 2684,
+    "totalTokens": 19935563,
+    "cacheHitRate": 87,
     "modelsUsed": [
       "claude-sonnet-4-6",
       "claude-sonnet-4-5-20250929"
@@ -2335,11 +2335,11 @@
     "modelBreakdowns": [
       {
         "model": "claude-sonnet-4-6",
-        "cost": 6.69
+        "cost": 7.66
       },
       {
         "model": "claude-sonnet-4-5-20250929",
-        "cost": 5.79
+        "cost": 6.96
       }
     ]
   }
