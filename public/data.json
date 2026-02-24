@@ -1,10 +1,5 @@
 [
   {
-    "date": "2025-02-24",
-    "count": 0,
-    "level": 0
-  },
-  {
     "date": "2025-02-25",
     "count": 0,
     "level": 0
@@ -2322,11 +2317,11 @@
   },
   {
     "date": "2026-02-23",
-    "count": 29.14,
+    "count": 29.98,
     "level": 1,
-    "inputTokens": 4526,
-    "outputTokens": 4271,
-    "totalTokens": 40682869,
+    "inputTokens": 4722,
+    "outputTokens": 4325,
+    "totalTokens": 41897066,
     "cacheHitRate": 88,
     "modelsUsed": [
       "claude-sonnet-4-6",
@@ -2335,11 +2330,34 @@
     "modelBreakdowns": [
       {
         "model": "claude-sonnet-4-5-20250929",
-        "cost": 17.15
+        "cost": 17.99
       },
       {
         "model": "claude-sonnet-4-6",
         "cost": 11.99
+      }
+    ]
+  },
+  {
+    "date": "2026-02-24",
+    "count": 23.99,
+    "level": 1,
+    "inputTokens": 29714,
+    "outputTokens": 2370,
+    "totalTokens": 32661586,
+    "cacheHitRate": 87,
+    "modelsUsed": [
+      "claude-sonnet-4-6",
+      "claude-sonnet-4-5-20250929"
+    ],
+    "modelBreakdowns": [
+      {
+        "model": "claude-sonnet-4-5-20250929",
+        "cost": 21.54
+      },
+      {
+        "model": "claude-sonnet-4-6",
+        "cost": 2.44
       }
     ]
   }
