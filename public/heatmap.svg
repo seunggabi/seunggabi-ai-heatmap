@@ -381,7 +381,7 @@
 <rect x="1092" y="60" width="16" height="16" rx="3" fill="#0e4429"><title>2026-02-23 (Mon)&#10;Cost: $29.98&#10;In: 4,722 / Out: 4,325&#10;Total: 41,897,066&#10;Cache hit: 88%&#10;claude-sonnet-4-5-20250929: $17.99&#10;claude-sonnet-4-6: $11.99</title></rect>
 <rect x="1092" y="80" width="16" height="16" rx="3" fill="#0e4429"><title>2026-02-24 (Tue)&#10;Cost: $23.99&#10;In: 29,714 / Out: 2,370&#10;Total: 32,661,586&#10;Cache hit: 87%&#10;claude-sonnet-4-5-20250929: $21.54&#10;claude-sonnet-4-6: $2.44</title></rect>
 <rect x="1092" y="100" width="16" height="16" rx="3" fill="#0e4429"><title>2026-02-25 (Wed)&#10;Cost: $22.39&#10;In: 3,690 / Out: 2,365&#10;Total: 32,816,658&#10;Cache hit: 89%&#10;claude-sonnet-4-5-20250929: $13.95&#10;claude-sonnet-4-6: $8.38&#10;claude-haiku-4-5-20251001: $0.06</title></rect>
-<rect x="1092" y="120" width="16" height="16" rx="3" fill="#0e4429"><title>2026-02-26 (Thu)&#10;Cost: $5.25&#10;In: 2,276 / Out: 493&#10;Total: 7,517,378&#10;Cache hit: 89%&#10;claude-sonnet-4-6: $2.89&#10;claude-sonnet-4-5-20250929: $2.35</title></rect>
+<rect x="1092" y="120" width="16" height="16" rx="3" fill="#0e4429"><title>2026-02-26 (Thu)&#10;Cost: $7.68&#10;In: 2,439 / Out: 1,680&#10;Total: 11,973,158&#10;Cache hit: 90%&#10;claude-sonnet-4-6: $5.33&#10;claude-sonnet-4-5-20250929: $2.35</title></rect>
 <text x="956" y="205" class="legend-label">Less</text>
 <rect x="996" y="190" width="16" height="16" rx="3" fill="#161b22"/>
 <rect x="1016" y="190" width="16" height="16" rx="3" fill="#0e4429"/>
@@ -389,11 +389,11 @@
 <rect x="1056" y="190" width="16" height="16" rx="3" fill="#26a641"/>
 <rect x="1076" y="190" width="16" height="16" rx="3" fill="#39d353"/>
 <text x="1096" y="205" class="legend-label">More</text>
-<text x="52" y="205" class="total">💰 Total: $2,321.00 across 365 days (2025~2026)</text>
+<text x="52" y="205" class="total">💰 Total: $2,323.43 across 365 days (2025~2026)</text>
 
 <line x1="16" y1="220" x2="1116" y2="220" stroke="#30363d" stroke-width="1"/>
-<text x="16" y="238" class="stat">Daily avg: <tspan class="stat-val">$89.27</tspan></text>
-<text x="216" y="238" class="stat">Weekly avg: <tspan class="stat-val">$580.25</tspan></text>
+<text x="16" y="238" class="stat">Daily avg: <tspan class="stat-val">$89.36</tspan></text>
+<text x="216" y="238" class="stat">Weekly avg: <tspan class="stat-val">$580.86</tspan></text>
 <text x="16" y="256" class="stat">Peak: <tspan class="stat-val">$187.12</tspan> (2026-02-18)</text>
 <text x="216" y="256" class="stat">Active: <tspan class="stat-val">26</tspan> / 365 days</text>
 
@@ -403,7 +403,7 @@
 <text x="16" y="324" class="bar-label">Mon</text><rect x="52" y="314" width="743.1422189128816" height="14" rx="3" fill="#26a641" opacity="0.85"/><text x="801.1422189128816" y="325" class="bar-val">$83.17</text>
 <text x="16" y="346" class="bar-label">Tue</text><rect x="52" y="336" width="602.5018615040954" height="14" rx="3" fill="#26a641" opacity="0.85"/><text x="660.5018615040954" y="347" class="bar-val">$67.43</text>
 <text x="16" y="368" class="bar-label">Wed</text><rect x="52" y="358" width="909.5383469843632" height="14" rx="3" fill="#39d353" opacity="0.85"/><text x="967.5383469843632" y="369" class="bar-val">$101.79</text>
-<text x="16" y="390" class="bar-label">Thu</text><rect x="52" y="380" width="840.6478034251676" height="14" rx="3" fill="#39d353" opacity="0.85"/><text x="898.6478034251676" y="391" class="bar-val">$94.08</text>
+<text x="16" y="390" class="bar-label">Thu</text><rect x="52" y="380" width="846.0759493670886" height="14" rx="3" fill="#39d353" opacity="0.85"/><text x="904.0759493670886" y="391" class="bar-val">$94.69</text>
 <text x="16" y="412" class="bar-label">Fri</text><rect x="52" y="402" width="837.0513775130304" height="14" rx="3" fill="#39d353" opacity="0.85"/><text x="895.0513775130304" y="413" class="bar-val">$93.68</text>
 <text x="16" y="434" class="bar-label">Sat</text><rect x="52" y="424" width="1000" height="14" rx="3" fill="#39d353" opacity="0.85"/><text x="1058" y="435" class="bar-val">$111.92</text>
 
