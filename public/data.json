@@ -1,10 +1,5 @@
 [
   {
-    "date": "2025-02-27",
-    "count": 0,
-    "level": 0
-  },
-  {
     "date": "2025-02-28",
     "count": 0,
     "level": 0
@@ -2399,6 +2394,24 @@
       {
         "model": "claude-sonnet-4-5-20250929",
         "cost": 2.35
+      }
+    ]
+  },
+  {
+    "date": "2026-02-27",
+    "count": 0.64,
+    "level": 1,
+    "inputTokens": 61,
+    "outputTokens": 705,
+    "totalTokens": 1007409,
+    "cacheHitRate": 90,
+    "modelsUsed": [
+      "claude-sonnet-4-6"
+    ],
+    "modelBreakdowns": [
+      {
+        "model": "claude-sonnet-4-6",
+        "cost": 0.64
       }
     ]
   }
