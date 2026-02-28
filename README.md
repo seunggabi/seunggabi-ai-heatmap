@@ -19,7 +19,7 @@ GH_TOKEN=ghp_xxx
 0 0 * * * npx --yes ai-heatmap@latest update
 ```
 
-## Dynamic SVG (by Vercel)
+## [Dynamic SVG (by Vercel)](https://seunggabi-ai-heatmap.vercel.app/)
 
 ![AI Heatmap](https://seunggabi-ai-heatmap.vercel.app/api/heatmap?theme=blue&colorScheme=dark)
 
