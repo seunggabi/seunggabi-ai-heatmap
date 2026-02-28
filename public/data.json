@@ -1692,6 +1692,10 @@
     "outputTokens": 1218,
     "totalTokens": 39141520,
     "cacheHitRate": 96,
+    "modelsUsed": [
+      "claude-opus-4-5-20251101",
+      "claude-sonnet-4-5-20250929"
+    ],
     "modelBreakdowns": [
       {
         "model": "claude-opus-4-5-20251101",
@@ -1711,6 +1715,11 @@
     "outputTokens": 6208,
     "totalTokens": 153981637,
     "cacheHitRate": 90,
+    "modelsUsed": [
+      "claude-opus-4-5-20251101",
+      "claude-sonnet-4-5-20250929",
+      "claude-haiku-4-5-20251001"
+    ],
     "modelBreakdowns": [
       {
         "model": "claude-opus-4-5-20251101",
@@ -1734,6 +1743,11 @@
     "outputTokens": 3859,
     "totalTokens": 67570780,
     "cacheHitRate": 92,
+    "modelsUsed": [
+      "claude-opus-4-5-20251101",
+      "claude-haiku-4-5-20251001",
+      "claude-sonnet-4-5-20250929"
+    ],
     "modelBreakdowns": [
       {
         "model": "claude-opus-4-5-20251101",
@@ -1757,6 +1771,11 @@
     "outputTokens": 8687,
     "totalTokens": 168834147,
     "cacheHitRate": 91,
+    "modelsUsed": [
+      "claude-opus-4-5-20251101",
+      "claude-sonnet-4-5-20250929",
+      "claude-haiku-4-5-20251001"
+    ],
     "modelBreakdowns": [
       {
         "model": "claude-opus-4-5-20251101",
@@ -1780,6 +1799,11 @@
     "outputTokens": 17691,
     "totalTokens": 127651583,
     "cacheHitRate": 89,
+    "modelsUsed": [
+      "claude-opus-4-5-20251101",
+      "claude-sonnet-4-5-20250929",
+      "claude-haiku-4-5-20251001"
+    ],
     "modelBreakdowns": [
       {
         "model": "claude-opus-4-5-20251101",
@@ -1803,6 +1827,12 @@
     "outputTokens": 41354,
     "totalTokens": 187092162,
     "cacheHitRate": 95,
+    "modelsUsed": [
+      "claude-opus-4-5-20251101",
+      "claude-sonnet-4-5-20250929",
+      "claude-haiku-4-5-20251001",
+      "claude-opus-4-6"
+    ],
     "modelBreakdowns": [
       {
         "model": "claude-opus-4-6",
@@ -1830,6 +1860,11 @@
     "outputTokens": 19797,
     "totalTokens": 114348109,
     "cacheHitRate": 89,
+    "modelsUsed": [
+      "claude-opus-4-6",
+      "claude-sonnet-4-5-20250929",
+      "claude-haiku-4-5-20251001"
+    ],
     "modelBreakdowns": [
       {
         "model": "claude-opus-4-6",
@@ -1853,6 +1888,11 @@
     "outputTokens": 28122,
     "totalTokens": 131570471,
     "cacheHitRate": 88,
+    "modelsUsed": [
+      "claude-opus-4-6",
+      "claude-sonnet-4-5-20250929",
+      "claude-haiku-4-5-20251001"
+    ],
     "modelBreakdowns": [
       {
         "model": "claude-opus-4-6",
@@ -1876,6 +1916,11 @@
     "outputTokens": 48808,
     "totalTokens": 126643382,
     "cacheHitRate": 94,
+    "modelsUsed": [
+      "claude-sonnet-4-5-20250929",
+      "claude-opus-4-6",
+      "claude-haiku-4-5-20251001"
+    ],
     "modelBreakdowns": [
       {
         "model": "claude-opus-4-6",
@@ -1899,6 +1944,11 @@
     "outputTokens": 26366,
     "totalTokens": 150681738,
     "cacheHitRate": 95,
+    "modelsUsed": [
+      "claude-opus-4-6",
+      "claude-sonnet-4-5-20250929",
+      "claude-haiku-4-5-20251001"
+    ],
     "modelBreakdowns": [
       {
         "model": "claude-opus-4-6",
@@ -1922,6 +1972,11 @@
     "outputTokens": 12358,
     "totalTokens": 93013129,
     "cacheHitRate": 92,
+    "modelsUsed": [
+      "claude-opus-4-6",
+      "claude-sonnet-4-5-20250929",
+      "claude-haiku-4-5-20251001"
+    ],
     "modelBreakdowns": [
       {
         "model": "claude-opus-4-6",
@@ -1945,6 +2000,11 @@
     "outputTokens": 15244,
     "totalTokens": 258726747,
     "cacheHitRate": 94,
+    "modelsUsed": [
+      "claude-sonnet-4-5-20250929",
+      "claude-opus-4-6",
+      "claude-haiku-4-5-20251001"
+    ],
     "modelBreakdowns": [
       {
         "model": "claude-sonnet-4-5-20250929",
@@ -1968,6 +2028,11 @@
     "outputTokens": 10882,
     "totalTokens": 186473069,
     "cacheHitRate": 93,
+    "modelsUsed": [
+      "claude-sonnet-4-5-20250929",
+      "claude-opus-4-6",
+      "claude-haiku-4-5-20251001"
+    ],
     "modelBreakdowns": [
       {
         "model": "claude-sonnet-4-5-20250929",
@@ -1991,6 +2056,10 @@
     "outputTokens": 5401,
     "totalTokens": 188184796,
     "cacheHitRate": 93,
+    "modelsUsed": [
+      "claude-sonnet-4-5-20250929",
+      "claude-opus-4-6"
+    ],
     "modelBreakdowns": [
       {
         "model": "claude-sonnet-4-5-20250929",
@@ -2010,6 +2079,11 @@
     "outputTokens": 5227,
     "totalTokens": 176449521,
     "cacheHitRate": 93,
+    "modelsUsed": [
+      "claude-sonnet-4-5-20250929",
+      "claude-opus-4-6",
+      "claude-haiku-4-5-20251001"
+    ],
     "modelBreakdowns": [
       {
         "model": "claude-sonnet-4-5-20250929",
@@ -2033,6 +2107,10 @@
     "outputTokens": 3745,
     "totalTokens": 131466709,
     "cacheHitRate": 93,
+    "modelsUsed": [
+      "claude-sonnet-4-5-20250929",
+      "claude-haiku-4-5-20251001"
+    ],
     "modelBreakdowns": [
       {
         "model": "claude-sonnet-4-5-20250929",
@@ -2052,6 +2130,11 @@
     "outputTokens": 6714,
     "totalTokens": 113500001,
     "cacheHitRate": 90,
+    "modelsUsed": [
+      "claude-sonnet-4-5-20250929",
+      "claude-haiku-4-5-20251001",
+      "claude-opus-4-6"
+    ],
     "modelBreakdowns": [
       {
         "model": "claude-sonnet-4-5-20250929",
@@ -2075,6 +2158,12 @@
     "outputTokens": 51501,
     "totalTokens": 229662829,
     "cacheHitRate": 94,
+    "modelsUsed": [
+      "claude-sonnet-4-5-20250929",
+      "claude-opus-4-6",
+      "claude-haiku-4-5-20251001",
+      "claude-sonnet-4-6"
+    ],
     "modelBreakdowns": [
       {
         "model": "claude-opus-4-6",
@@ -2102,6 +2191,11 @@
     "outputTokens": 36109,
     "totalTokens": 123050581,
     "cacheHitRate": 93,
+    "modelsUsed": [
+      "claude-opus-4-6",
+      "claude-sonnet-4-5-20250929",
+      "claude-haiku-4-5-20251001"
+    ],
     "modelBreakdowns": [
       {
         "model": "claude-opus-4-6",
@@ -2125,6 +2219,10 @@
     "outputTokens": 7596,
     "totalTokens": 71487235,
     "cacheHitRate": 91,
+    "modelsUsed": [
+      "claude-opus-4-6",
+      "claude-sonnet-4-5-20250929"
+    ],
     "modelBreakdowns": [
       {
         "model": "claude-sonnet-4-5-20250929",
@@ -2144,6 +2242,12 @@
     "outputTokens": 12452,
     "totalTokens": 237199703,
     "cacheHitRate": 93,
+    "modelsUsed": [
+      "claude-sonnet-4-5-20250929",
+      "claude-opus-4-6",
+      "claude-sonnet-4-6",
+      "claude-haiku-4-5-20251001"
+    ],
     "modelBreakdowns": [
       {
         "model": "claude-sonnet-4-5-20250929",
@@ -2171,6 +2275,11 @@
     "outputTokens": 18349,
     "totalTokens": 133260020,
     "cacheHitRate": 94,
+    "modelsUsed": [
+      "claude-sonnet-4-5-20250929",
+      "claude-sonnet-4-6",
+      "claude-haiku-4-5-20251001"
+    ],
     "modelBreakdowns": [
       {
         "model": "claude-sonnet-4-6",
@@ -2194,6 +2303,10 @@
     "outputTokens": 4325,
     "totalTokens": 41897066,
     "cacheHitRate": 88,
+    "modelsUsed": [
+      "claude-sonnet-4-6",
+      "claude-sonnet-4-5-20250929"
+    ],
     "modelBreakdowns": [
       {
         "model": "claude-sonnet-4-5-20250929",
@@ -2213,6 +2326,10 @@
     "outputTokens": 2370,
     "totalTokens": 32661586,
     "cacheHitRate": 87,
+    "modelsUsed": [
+      "claude-sonnet-4-6",
+      "claude-sonnet-4-5-20250929"
+    ],
     "modelBreakdowns": [
       {
         "model": "claude-sonnet-4-5-20250929",
@@ -2232,6 +2349,11 @@
     "outputTokens": 2365,
     "totalTokens": 32816658,
     "cacheHitRate": 89,
+    "modelsUsed": [
+      "claude-sonnet-4-5-20250929",
+      "claude-sonnet-4-6",
+      "claude-haiku-4-5-20251001"
+    ],
     "modelBreakdowns": [
       {
         "model": "claude-sonnet-4-5-20250929",
@@ -2255,6 +2377,10 @@
     "outputTokens": 2203,
     "totalTokens": 14366442,
     "cacheHitRate": 89,
+    "modelsUsed": [
+      "claude-sonnet-4-5-20250929",
+      "claude-sonnet-4-6"
+    ],
     "modelBreakdowns": [
       {
         "model": "claude-sonnet-4-6",
@@ -2274,6 +2400,9 @@
     "outputTokens": 1738,
     "totalTokens": 3795724,
     "cacheHitRate": 93,
+    "modelsUsed": [
+      "claude-sonnet-4-6"
+    ],
     "modelBreakdowns": [
       {
         "model": "claude-sonnet-4-6",
@@ -2289,6 +2418,9 @@
     "outputTokens": 1933,
     "totalTokens": 2677072,
     "cacheHitRate": 96,
+    "modelsUsed": [
+      "claude-sonnet-4-6"
+    ],
     "modelBreakdowns": [
       {
         "model": "claude-sonnet-4-6",
