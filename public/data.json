@@ -2455,11 +2455,11 @@
   },
   {
     "date": "2026-03-01",
-    "count": 81.18,
+    "count": 84.9,
     "level": 2,
-    "inputTokens": 4096,
-    "outputTokens": 51323,
-    "totalTokens": 107661856,
+    "inputTokens": 4306,
+    "outputTokens": 54991,
+    "totalTokens": 110760107,
     "cacheHitRate": 87,
     "modelsUsed": [
       "claude-sonnet-4-6"
@@ -2467,7 +2467,7 @@
     "modelBreakdowns": [
       {
         "model": "claude-sonnet-4-6",
-        "cost": 81.18
+        "cost": 84.9
       }
     ]
   }
