@@ -1,10 +1,5 @@
 [
   {
-    "date": "2025-03-02",
-    "count": 0,
-    "level": 0
-  },
-  {
     "date": "2025-03-03",
     "count": 0,
     "level": 0
@@ -2016,21 +2011,41 @@
   },
   {
     "date": "2026-03-01",
-    "count": 80.79,
-    "level": 3,
-    "inputTokens": 3912,
-    "outputTokens": 38213,
-    "totalTokens": 84085666,
-    "cacheReadTokens": 68104042,
-    "cacheCreationTokens": 15939499,
-    "cacheHitRate": 81,
+    "count": 124.28,
+    "level": 4,
+    "inputTokens": 6371,
+    "outputTokens": 67122,
+    "totalTokens": 150669444,
+    "cacheReadTokens": 127966593,
+    "cacheCreationTokens": 22629358,
+    "cacheHitRate": 85,
     "modelsUsed": [
       "claude-sonnet-4-6"
     ],
     "modelBreakdowns": [
       {
         "model": "claude-sonnet-4-6",
-        "cost": 80.79
+        "cost": 124.28
+      }
+    ]
+  },
+  {
+    "date": "2026-03-02",
+    "count": 1.02,
+    "level": 1,
+    "inputTokens": 51,
+    "outputTokens": 308,
+    "totalTokens": 1401483,
+    "cacheReadTokens": 1228821,
+    "cacheCreationTokens": 172303,
+    "cacheHitRate": 88,
+    "modelsUsed": [
+      "claude-sonnet-4-6"
+    ],
+    "modelBreakdowns": [
+      {
+        "model": "claude-sonnet-4-6",
+        "cost": 1.02
       }
     ]
   }
