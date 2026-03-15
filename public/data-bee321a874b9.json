@@ -1,10 +1,5 @@
 [
   {
-    "date": "2025-03-16",
-    "count": 0,
-    "level": 0
-  },
-  {
     "date": "2025-03-17",
     "count": 0,
     "level": 0
@@ -1671,22 +1666,22 @@
   },
   {
     "date": "2026-02-13",
-    "count": 66.04,
-    "level": 3,
-    "inputTokens": 3343,
-    "outputTokens": 32768,
-    "totalTokens": 109213147,
-    "cacheReadTokens": 106588414,
-    "cacheCreationTokens": 2588622,
-    "cacheHitRate": 98,
+    "count": 15.71,
+    "level": 1,
+    "inputTokens": 1291,
+    "outputTokens": 6995,
+    "totalTokens": 25757465,
+    "cacheReadTokens": 24545136,
+    "cacheCreationTokens": 1204043,
+    "cacheHitRate": 95,
     "modelsUsed": [
-      "claude-opus-4-6",
-      "claude-haiku-4-5-20251001"
+      "claude-haiku-4-5-20251001",
+      "claude-opus-4-6"
     ],
     "modelBreakdowns": [
       {
         "model": "claude-opus-4-6",
-        "cost": 64.98
+        "cost": 14.65
       },
       {
         "model": "claude-haiku-4-5-20251001",
@@ -2301,26 +2296,46 @@
   },
   {
     "date": "2026-03-15",
-    "count": 0.54,
-    "level": 1,
-    "inputTokens": 5535,
-    "outputTokens": 1077,
-    "totalTokens": 537878,
-    "cacheReadTokens": 329796,
-    "cacheCreationTokens": 201470,
-    "cacheHitRate": 62,
+    "count": 44,
+    "level": 2,
+    "inputTokens": 495881,
+    "outputTokens": 8245,
+    "totalTokens": 91556631,
+    "cacheReadTokens": 66194943,
+    "cacheCreationTokens": 24857562,
+    "cacheHitRate": 73,
     "modelsUsed": [
       "claude-haiku-4-5-20251001",
       "claude-sonnet-4-6"
     ],
     "modelBreakdowns": [
       {
-        "model": "claude-sonnet-4-6",
-        "cost": 0.37
+        "model": "claude-haiku-4-5-20251001",
+        "cost": 35.34
       },
       {
+        "model": "claude-sonnet-4-6",
+        "cost": 8.65
+      }
+    ]
+  },
+  {
+    "date": "2026-03-16",
+    "count": 0.42,
+    "level": 1,
+    "inputTokens": 5566,
+    "outputTokens": 52,
+    "totalTokens": 1075625,
+    "cacheReadTokens": 803928,
+    "cacheCreationTokens": 266079,
+    "cacheHitRate": 75,
+    "modelsUsed": [
+      "claude-haiku-4-5-20251001"
+    ],
+    "modelBreakdowns": [
+      {
         "model": "claude-haiku-4-5-20251001",
-        "cost": 0.17
+        "cost": 0.42
       }
     ]
   }
