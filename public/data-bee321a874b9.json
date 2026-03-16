@@ -1,10 +1,5 @@
 [
   {
-    "date": "2025-03-17",
-    "count": 0,
-    "level": 0
-  },
-  {
     "date": "2025-03-18",
     "count": 0,
     "level": 0
@@ -1666,14 +1661,14 @@
   },
   {
     "date": "2026-02-13",
-    "count": 15.71,
+    "count": 4.2,
     "level": 1,
-    "inputTokens": 1291,
-    "outputTokens": 6995,
-    "totalTokens": 25757465,
-    "cacheReadTokens": 24545136,
-    "cacheCreationTokens": 1204043,
-    "cacheHitRate": 95,
+    "inputTokens": 691,
+    "outputTokens": 635,
+    "totalTokens": 7014992,
+    "cacheReadTokens": 6155068,
+    "cacheCreationTokens": 858598,
+    "cacheHitRate": 88,
     "modelsUsed": [
       "claude-haiku-4-5-20251001",
       "claude-opus-4-6"
@@ -1681,7 +1676,7 @@
     "modelBreakdowns": [
       {
         "model": "claude-opus-4-6",
-        "cost": 14.65
+        "cost": 3.13
       },
       {
         "model": "claude-haiku-4-5-20251001",
@@ -2321,13 +2316,38 @@
   },
   {
     "date": "2026-03-16",
-    "count": 0.42,
+    "count": 42.89,
+    "level": 2,
+    "inputTokens": 561972,
+    "outputTokens": 6326,
+    "totalTokens": 108151989,
+    "cacheReadTokens": 80411137,
+    "cacheCreationTokens": 27172554,
+    "cacheHitRate": 75,
+    "modelsUsed": [
+      "claude-sonnet-4-6",
+      "claude-haiku-4-5-20251001"
+    ],
+    "modelBreakdowns": [
+      {
+        "model": "claude-haiku-4-5-20251001",
+        "cost": 42.46
+      },
+      {
+        "model": "claude-sonnet-4-6",
+        "cost": 0.43
+      }
+    ]
+  },
+  {
+    "date": "2026-03-17",
+    "count": 0.69,
     "level": 1,
-    "inputTokens": 5566,
-    "outputTokens": 52,
-    "totalTokens": 1075625,
-    "cacheReadTokens": 803928,
-    "cacheCreationTokens": 266079,
+    "inputTokens": 4824,
+    "outputTokens": 117,
+    "totalTokens": 1788707,
+    "cacheReadTokens": 1340422,
+    "cacheCreationTokens": 443344,
     "cacheHitRate": 75,
     "modelsUsed": [
       "claude-haiku-4-5-20251001"
@@ -2335,7 +2355,7 @@
     "modelBreakdowns": [
       {
         "model": "claude-haiku-4-5-20251001",
-        "cost": 0.42
+        "cost": 0.69
       }
     ]
   }
