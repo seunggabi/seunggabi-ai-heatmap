@@ -400,7 +400,8 @@
 <rect x="1132" y="80" width="16" height="16" rx="3" fill="#006d32"><title>2026-03-17 (Tue)&#10;Cost: $57.72&#10;In: 644,367 / Out: 9,478&#10;Total: 133,697,561&#10;Cache hit: 74%&#10;claude-haiku-4-5-20251001: $50.74&#10;claude-sonnet-4-6: $6.98</title></rect>
 <rect x="1132" y="100" width="16" height="16" rx="3" fill="#006d32"><title>2026-03-18 (Wed)&#10;Cost: $86.67&#10;In: 266,625 / Out: 524,494&#10;Total: 97,856,554&#10;Cache hit: 83%&#10;claude-sonnet-4-6: $82.23&#10;claude-haiku-4-5-20251001: $3.65&#10;claude-opus-4-6: $0.79</title></rect>
 <rect x="1132" y="120" width="16" height="16" rx="3" fill="#26a641"><title>2026-03-19 (Thu)&#10;Cost: $104.45&#10;In: 214,422 / Out: 415,861&#10;Total: 124,224,938&#10;Cache hit: 86%&#10;claude-sonnet-4-6: $97.60&#10;claude-opus-4-6: $5.27&#10;claude-haiku-4-5-20251001: $1.58</title></rect>
-<rect x="1132" y="140" width="16" height="16" rx="3" fill="#0e4429"><title>2026-03-20 (Fri)&#10;Cost: $2.12&#10;In: 2,930 / Out: 15,778&#10;Total: 2,251,939&#10;Cache hit: 84%&#10;claude-sonnet-4-6: $2.12</title></rect>
+<rect x="1132" y="140" width="16" height="16" rx="3" fill="#39d353"><title>2026-03-20 (Fri)&#10;Cost: $183.66&#10;In: 451,724 / Out: 755,017&#10;Total: 208,403,002&#10;Cache hit: 84%&#10;claude-sonnet-4-6: $180.65&#10;claude-opus-4-6: $1.69&#10;claude-haiku-4-5-20251001: $1.33</title></rect>
+<rect x="1132" y="160" width="16" height="16" rx="3" fill="#0e4429"><title>2026-03-21 (Sat)&#10;Cost: $1.82&#10;In: 2,862 / Out: 12,789&#10;Total: 1,475,451&#10;Cache hit: 74%&#10;claude-sonnet-4-6: $1.76&#10;claude-haiku-4-5-20251001: $0.06</title></rect>
 <text x="996" y="205" class="legend-label">Less</text>
 <rect x="1036" y="190" width="16" height="16" rx="3" fill="#161b22"/>
 <rect x="1056" y="190" width="16" height="16" rx="3" fill="#0e4429"/>
@@ -408,22 +409,22 @@
 <rect x="1096" y="190" width="16" height="16" rx="3" fill="#26a641"/>
 <rect x="1116" y="190" width="16" height="16" rx="3" fill="#39d353"/>
 <text x="1136" y="205" class="legend-label">More</text>
-<text x="52" y="205" class="total">💰 Total: $4,020.16 across 384 days (2025~2026)</text>
+<text x="52" y="205" class="total">💰 Total: $4,203.52 across 385 days (2025~2026)</text>
 
 <line x1="16" y1="220" x2="1156" y2="220" stroke="#30363d" stroke-width="1"/>
-<text x="16" y="238" class="stat">Daily avg: <tspan class="stat-val">$83.75</tspan></text>
-<text x="216" y="238" class="stat">Weekly avg: <tspan class="stat-val">$574.31</tspan></text>
+<text x="16" y="238" class="stat">Daily avg: <tspan class="stat-val">$85.79</tspan></text>
+<text x="216" y="238" class="stat">Weekly avg: <tspan class="stat-val">$600.50</tspan></text>
 <text x="16" y="256" class="stat">Peak: <tspan class="stat-val">$187.12</tspan> (2026-02-18)</text>
-<text x="216" y="256" class="stat">Active: <tspan class="stat-val">48</tspan> / 384 days</text>
+<text x="216" y="256" class="stat">Active: <tspan class="stat-val">49</tspan> / 385 days</text>
 
 
 <text x="16" y="276" class="section-title">Avg by weekday</text>
-<text x="16" y="302" class="bar-label">Sun</text><rect x="52" y="292" width="895.8771355437822" height="14" rx="3" fill="#39d353" opacity="0.85"/><text x="953.8771355437822" y="303" class="bar-val">$82.69</text>
-<text x="16" y="324" class="bar-label">Mon</text><rect x="52" y="314" width="1006.7242097743909" height="14" rx="3" fill="#39d353" opacity="0.85"/><text x="1064.724209774391" y="325" class="bar-val">$92.92</text>
-<text x="16" y="346" class="bar-label">Tue</text><rect x="52" y="336" width="754.1222691826894" height="14" rx="3" fill="#26a641" opacity="0.85"/><text x="812.1222691826894" y="347" class="bar-val">$69.61</text>
-<text x="16" y="368" class="bar-label">Wed</text><rect x="52" y="358" width="898.7558783260904" height="14" rx="3" fill="#39d353" opacity="0.85"/><text x="956.7558783260904" y="369" class="bar-val">$82.96</text>
-<text x="16" y="390" class="bar-label">Thu</text><rect x="52" y="380" width="1040" height="14" rx="3" fill="#39d353" opacity="0.85"/><text x="1098" y="391" class="bar-val">$95.99</text>
-<text x="16" y="412" class="bar-label">Fri</text><rect x="52" y="402" width="763.702601345318" height="14" rx="3" fill="#26a641" opacity="0.85"/><text x="821.702601345318" y="413" class="bar-val">$70.49</text>
-<text x="16" y="434" class="bar-label">Sat</text><rect x="52" y="424" width="1006.6751989205704" height="14" rx="3" fill="#39d353" opacity="0.85"/><text x="1064.6751989205704" y="435" class="bar-val">$92.92</text>
+<text x="16" y="302" class="bar-label">Sun</text><rect x="52" y="292" width="891.8687961124773" height="14" rx="3" fill="#39d353" opacity="0.85"/><text x="949.8687961124773" y="303" class="bar-val">$82.69</text>
+<text x="16" y="324" class="bar-label">Mon</text><rect x="52" y="314" width="1002.2199176271887" height="14" rx="3" fill="#39d353" opacity="0.85"/><text x="1060.2199176271888" y="325" class="bar-val">$92.92</text>
+<text x="16" y="346" class="bar-label">Tue</text><rect x="52" y="336" width="750.7481703161576" height="14" rx="3" fill="#26a641" opacity="0.85"/><text x="808.7481703161576" y="347" class="bar-val">$69.61</text>
+<text x="16" y="368" class="bar-label">Wed</text><rect x="52" y="358" width="894.7346588047051" height="14" rx="3" fill="#39d353" opacity="0.85"/><text x="952.7346588047051" y="369" class="bar-val">$82.96</text>
+<text x="16" y="390" class="bar-label">Thu</text><rect x="52" y="380" width="1035.346825091114" height="14" rx="3" fill="#39d353" opacity="0.85"/><text x="1093.346825091114" y="391" class="bar-val">$95.99</text>
+<text x="16" y="412" class="bar-label">Fri</text><rect x="52" y="402" width="1040" height="14" rx="3" fill="#39d353" opacity="0.85"/><text x="1098" y="413" class="bar-val">$96.43</text>
+<text x="16" y="434" class="bar-label">Sat</text><rect x="52" y="424" width="861.8080535719578" height="14" rx="3" fill="#39d353" opacity="0.85"/><text x="919.8080535719578" y="435" class="bar-val">$79.90</text>
 
 </svg>
