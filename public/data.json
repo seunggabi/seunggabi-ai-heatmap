@@ -2565,11 +2565,11 @@
   },
   {
     "date": "2026-03-07",
-    "count": 14.71,
+    "count": 13.02,
     "level": 1,
-    "inputTokens": 3212,
-    "outputTokens": 37212,
-    "totalTokens": 29145245,
+    "inputTokens": 3035,
+    "outputTokens": 24632,
+    "totalTokens": 27405968,
     "cacheHitRate": 95,
     "modelsUsed": [
       "claude-sonnet-4-6"
@@ -2577,18 +2577,18 @@
     "modelBreakdowns": [
       {
         "model": "claude-sonnet-4-6",
-        "cost": 14.71
+        "cost": 13.02
       }
     ]
   },
   {
     "date": "2026-03-08",
-    "count": 76.1,
+    "count": 67.03,
     "level": 2,
-    "inputTokens": 7905,
-    "outputTokens": 263861,
-    "totalTokens": 70616746,
-    "cacheHitRate": 79,
+    "inputTokens": 6950,
+    "outputTokens": 208509,
+    "totalTokens": 61316377,
+    "cacheHitRate": 78,
     "modelsUsed": [
       "claude-sonnet-4-6",
       "claude-haiku-4-5-20251001"
@@ -2596,7 +2596,7 @@
     "modelBreakdowns": [
       {
         "model": "claude-sonnet-4-6",
-        "cost": 75.89
+        "cost": 66.82
       },
       {
         "model": "claude-haiku-4-5-20251001",
@@ -3252,11 +3252,11 @@
   },
   {
     "date": "2026-04-07",
-    "count": 0.58,
+    "count": 34.2,
     "level": 1,
-    "inputTokens": 2308,
-    "outputTokens": 6487,
-    "totalTokens": 1183261,
+    "inputTokens": 113960,
+    "outputTokens": 196869,
+    "totalTokens": 80034973,
     "cacheHitRate": 92,
     "modelsUsed": [
       "claude-haiku-4-5-20251001",
@@ -3265,11 +3265,34 @@
     "modelBreakdowns": [
       {
         "model": "claude-sonnet-4-6",
-        "cost": 0.49
+        "cost": 27.32
       },
       {
         "model": "claude-haiku-4-5-20251001",
-        "cost": 0.09
+        "cost": 6.88
+      }
+    ]
+  },
+  {
+    "date": "2026-04-08",
+    "count": 0.48,
+    "level": 1,
+    "inputTokens": 3038,
+    "outputTokens": 2546,
+    "totalTokens": 811104,
+    "cacheHitRate": 78,
+    "modelsUsed": [
+      "claude-haiku-4-5-20251001",
+      "claude-sonnet-4-6"
+    ],
+    "modelBreakdowns": [
+      {
+        "model": "claude-sonnet-4-6",
+        "cost": 0.27
+      },
+      {
+        "model": "claude-haiku-4-5-20251001",
+        "cost": 0.21
       }
     ]
   }
