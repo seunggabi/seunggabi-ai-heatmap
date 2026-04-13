@@ -1,10 +1,5 @@
 [
   {
-    "date": "2025-04-14",
-    "count": 0,
-    "level": 0
-  },
-  {
     "date": "2025-04-15",
     "count": 0,
     "level": 0
@@ -2761,14 +2756,14 @@
   },
   {
     "date": "2026-04-13",
-    "count": 0.98,
+    "count": 44.34,
     "level": 1,
-    "inputTokens": 129,
-    "outputTokens": 23436,
-    "totalTokens": 1688208,
-    "cacheReadTokens": 1455902,
-    "cacheCreationTokens": 208741,
-    "cacheHitRate": 87,
+    "inputTokens": 88830,
+    "outputTokens": 906488,
+    "totalTokens": 62566306,
+    "cacheReadTokens": 55772190,
+    "cacheCreationTokens": 5798798,
+    "cacheHitRate": 91,
     "modelsUsed": [
       "claude-haiku-4-5-20251001",
       "claude-sonnet-4-6"
@@ -2776,11 +2771,31 @@
     "modelBreakdowns": [
       {
         "model": "claude-sonnet-4-6",
-        "cost": 0.69
+        "cost": 40.34
       },
       {
         "model": "claude-haiku-4-5-20251001",
-        "cost": 0.29
+        "cost": 4
+      }
+    ]
+  },
+  {
+    "date": "2026-04-14",
+    "count": 0.6,
+    "level": 1,
+    "inputTokens": 33,
+    "outputTokens": 11850,
+    "totalTokens": 538762,
+    "cacheReadTokens": 450112,
+    "cacheCreationTokens": 76767,
+    "cacheHitRate": 85,
+    "modelsUsed": [
+      "claude-sonnet-4-6"
+    ],
+    "modelBreakdowns": [
+      {
+        "model": "claude-sonnet-4-6",
+        "cost": 0.6
       }
     ]
   }
