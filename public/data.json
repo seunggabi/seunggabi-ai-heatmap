@@ -2728,40 +2728,35 @@
   },
   {
     "date": "2026-03-20",
-    "count": 42,
+    "count": 31.72,
     "level": 1,
-    "inputTokens": 40873,
-    "outputTokens": 100267,
-    "totalTokens": 73880388,
-    "cacheHitRate": 93,
+    "inputTokens": 5270,
+    "outputTokens": 55722,
+    "totalTokens": 62849684,
+    "cacheHitRate": 95,
     "modelsUsed": [
       "claude-sonnet-4-6",
-      "claude-opus-4-6",
-      "claude-haiku-4-5-20251001"
+      "claude-opus-4-6"
     ],
     "modelBreakdowns": [
       {
         "model": "claude-sonnet-4-6",
-        "cost": 40.23
+        "cost": 30.03
       },
       {
         "model": "claude-opus-4-6",
         "cost": 1.69
-      },
-      {
-        "model": "claude-haiku-4-5-20251001",
-        "cost": 0.08
       }
     ]
   },
   {
     "date": "2026-03-21",
-    "count": 191.66,
-    "level": 4,
-    "inputTokens": 428084,
-    "outputTokens": 796510,
-    "totalTokens": 194973331,
-    "cacheHitRate": 81,
+    "count": 20.74,
+    "level": 1,
+    "inputTokens": 60212,
+    "outputTokens": 63954,
+    "totalTokens": 30495106,
+    "cacheHitRate": 90,
     "modelsUsed": [
       "claude-sonnet-4-6",
       "claude-haiku-4-5-20251001"
@@ -2769,11 +2764,11 @@
     "modelBreakdowns": [
       {
         "model": "claude-sonnet-4-6",
-        "cost": 189.66
+        "cost": 20.59
       },
       {
         "model": "claude-haiku-4-5-20251001",
-        "cost": 2
+        "cost": 0.15
       }
     ]
   },
@@ -3420,23 +3415,51 @@
   },
   {
     "date": "2026-04-20",
-    "count": 0.11,
+    "count": 95.12,
+    "level": 2,
+    "inputTokens": 180362,
+    "outputTokens": 2304049,
+    "totalTokens": 113644729,
+    "cacheHitRate": 90,
+    "modelsUsed": [
+      "claude-haiku-4-5-20251001",
+      "claude-sonnet-4-6",
+      "claude-opus-4-6"
+    ],
+    "modelBreakdowns": [
+      {
+        "model": "claude-sonnet-4-6",
+        "cost": 89.47
+      },
+      {
+        "model": "claude-haiku-4-5-20251001",
+        "cost": 5.4
+      },
+      {
+        "model": "claude-opus-4-6",
+        "cost": 0.25
+      }
+    ]
+  },
+  {
+    "date": "2026-04-21",
+    "count": 0.54,
     "level": 1,
-    "inputTokens": 13,
-    "outputTokens": 1678,
-    "totalTokens": 68075,
-    "cacheHitRate": 19,
+    "inputTokens": 1010,
+    "outputTokens": 14136,
+    "totalTokens": 448240,
+    "cacheHitRate": 79,
     "modelsUsed": [
       "claude-sonnet-4-6",
       "claude-haiku-4-5-20251001"
     ],
     "modelBreakdowns": [
       {
-        "model": "claude-haiku-4-5-20251001",
-        "cost": 0.06
+        "model": "claude-sonnet-4-6",
+        "cost": 0.48
       },
       {
-        "model": "claude-sonnet-4-6",
+        "model": "claude-haiku-4-5-20251001",
         "cost": 0.06
       }
     ]
