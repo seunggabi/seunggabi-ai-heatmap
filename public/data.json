@@ -3484,11 +3484,29 @@
   },
   {
     "date": "2026-04-23",
-    "count": 0.16,
+    "count": 17.32,
     "level": 1,
-    "inputTokens": 79,
-    "outputTokens": 11891,
-    "totalTokens": 468395,
+    "inputTokens": 140866,
+    "outputTokens": 1239515,
+    "totalTokens": 44930275,
+    "cacheHitRate": 87,
+    "modelsUsed": [
+      "claude-haiku-4-5-20251001"
+    ],
+    "modelBreakdowns": [
+      {
+        "model": "claude-haiku-4-5-20251001",
+        "cost": 17.32
+      }
+    ]
+  },
+  {
+    "date": "2026-04-24",
+    "count": 0.17,
+    "level": 1,
+    "inputTokens": 1097,
+    "outputTokens": 11649,
+    "totalTokens": 517282,
     "cacheHitRate": 90,
     "modelsUsed": [
       "claude-haiku-4-5-20251001"
@@ -3496,7 +3514,7 @@
     "modelBreakdowns": [
       {
         "model": "claude-haiku-4-5-20251001",
-        "cost": 0.16
+        "cost": 0.17
       }
     ]
   }
