@@ -2861,30 +2861,17 @@
   },
   {
     "date": "2026-04-14",
-    "count": 15.04,
-    "level": 1,
-    "inputTokens": 27340,
-    "outputTokens": 343486,
-    "totalTokens": 12146898,
-    "cacheHitRate": 85,
-    "modelsUsed": [
-      "claude-sonnet-4-6"
-    ],
-    "modelBreakdowns": [
-      {
-        "model": "claude-sonnet-4-6",
-        "cost": 15.04
-      }
-    ]
+    "count": 0,
+    "level": 0
   },
   {
     "date": "2026-04-15",
-    "count": 101.75,
-    "level": 3,
-    "inputTokens": 195668,
-    "outputTokens": 2366756,
-    "totalTokens": 79387033,
-    "cacheHitRate": 84,
+    "count": 47.66,
+    "level": 2,
+    "inputTokens": 86380,
+    "outputTokens": 1118062,
+    "totalTokens": 36184991,
+    "cacheHitRate": 83,
     "modelsUsed": [
       "claude-sonnet-4-6",
       "claude-haiku-4-5-20251001"
@@ -2892,11 +2879,11 @@
     "modelBreakdowns": [
       {
         "model": "claude-sonnet-4-6",
-        "cost": 101.52
+        "cost": 47.6
       },
       {
         "model": "claude-haiku-4-5-20251001",
-        "cost": 0.23
+        "cost": 0.06
       }
     ]
   },
@@ -3574,19 +3561,42 @@
   },
   {
     "date": "2026-05-15",
-    "count": 0.87,
+    "count": 36,
     "level": 1,
-    "inputTokens": 1326,
-    "outputTokens": 30241,
-    "totalTokens": 519329,
-    "cacheHitRate": 84,
+    "inputTokens": 65027,
+    "outputTokens": 961750,
+    "totalTokens": 24052332,
+    "cacheHitRate": 82,
+    "modelsUsed": [
+      "claude-sonnet-4-6",
+      "claude-haiku-4-5-20251001"
+    ],
+    "modelBreakdowns": [
+      {
+        "model": "claude-sonnet-4-6",
+        "cost": 35.94
+      },
+      {
+        "model": "claude-haiku-4-5-20251001",
+        "cost": 0.06
+      }
+    ]
+  },
+  {
+    "date": "2026-05-16",
+    "count": 1.03,
+    "level": 1,
+    "inputTokens": 3973,
+    "outputTokens": 25494,
+    "totalTokens": 705428,
+    "cacheHitRate": 82,
     "modelsUsed": [
       "claude-sonnet-4-6"
     ],
     "modelBreakdowns": [
       {
         "model": "claude-sonnet-4-6",
-        "cost": 0.87
+        "cost": 1.03
       }
     ]
   }
